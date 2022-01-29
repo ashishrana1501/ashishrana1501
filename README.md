@@ -5,7 +5,7 @@
 - 📫 How to reach me ashishrana1501@gmail.com
 -  ![image](https://user-images.githubusercontent.com/86904142/150549955-79f3f81f-e608-4d70-a4ea-1a7a75df188c.png)
 https://www.linkedin.com/in/ashishkumar-rana
-
+-  https://www.kaggle.com/ashishkumarrana
 
 <!---
 ashishrana1501/ashishrana1501 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
