@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi 👋,I am Ashishkumar Rana From Mumbai Maharashtra.</h1>
-<h3 align="left">A passionate student, Pursuing my Master's degree in Statistics from Ramniranjan Jhunjhunwala College.</h3>
+<h3 align="left">A passionate Data Science student, Pursuing my Master's degree in Statistics from Ramniranjan Jhunjhunwala College.</h3>
 
 **Seeking an opportunity to leverage my diverse skills and experience in the field of Data Science & Machine Learning. My aim is to   utilize my skills and analytical abilities to help an organization with automation and advanced analytics. Experienced at creating regression models and using predictive modeling to discover insights from data and answer complex business problems**
 
@@ -9,7 +9,7 @@
 - 💞️ I’m looking to collaborate on **Time Series, Data Science, Machine Learning , Data Analytics Projects.**
 - 💬 Ask me about: **Statistics, Machine Learning**
 - 📫 How to reach me ashishrana1501@gmail.com
-- image https://www.linkedin.com/in/ashishkumar-rana
+- https://www.linkedin.com/in/ashishkumar-rana
 - https://www.kaggle.com/ashishkumarrana
 
 <h3 align="left">Connect with me:</h3>
