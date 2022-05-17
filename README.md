@@ -32,7 +32,7 @@
 
 <h3 align="left">Streak-stats:</h3>
 <p align="centre">
-<img title=" Get streak stats for your profile at git.io/streak-stats" alt="Ashishkumar Rana's streak" src ="https://github-readme-streak-stats.herokuapp.com/?user=ashishrana1501&theme=dark"/>
+<img title="Get streak stats for your profile at git.io/streak-stats" alt="Ashishkumar Rana's streak" src ="https://github-readme-streak-stats.herokuapp.com/?user=ashishrana1501&theme=dark"/>
   </a>
 </p>
  
