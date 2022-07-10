@@ -12,13 +12,6 @@
 - https://www.linkedin.com/in/ashishkumar-rana
 - https://www.kaggle.com/ashishkumarrana
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ashishkumar-rana"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"></a>
-<a href="https://www.instagram.com/ashishrana_1501"><img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"></a>
-<a href="https://github.com/ashishrana1501"><img src="https://img.icons8.com/color-glass/48/000000/github.png"></a>
-<a href="https://www.facebook.com/profile.php?id=100024285673896"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.rstudio.com/products/rstudio/download" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/277/PNG/128/RStudio_30177.png"></a>
@@ -37,8 +30,31 @@
 </p>
  
 <h3 align="left">My Github Stats:</h3>
-<a href="https://github.com/ashishrana1501/github-readme-stats"><img alt="Ashishkumar Rana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashishrana1501&show_icons=true&count_private=true&theme=react" /></a>
+<div align="center">
+  <a href="https://github.com/ashishrana1501">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashishrana1501&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishrana1501&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<br/>
+<br/>
+
+<a href="https://github.com/ashishrana1501/github-readme-activity-graph"><img alt="Ashishkumar Rana's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ashishrana1501&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/ashishkumar-rana"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"></a>
+<a href="https://www.instagram.com/ashishrana_1501"><img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"></a>
+<a href="https://github.com/ashishrana1501"><img src="https://img.icons8.com/color-glass/48/000000/github.png"></a>
+<a href="https://www.facebook.com/profile.php?id=100024285673896"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"></a>
+</p>
+
 
 <h3 align="left">Views and Followers:</h3>
 <a href="https://github.com/ashishrana1501/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=ashishrana1501"></a>
 <a href="https://github.com/ashishrana1501?tab=followers"><img src="https://img.shields.io/github/followers/ashishrana1501?label=Followers&style=social" alt="Github Badge"></a>
+
+
