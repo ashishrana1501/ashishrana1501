@@ -23,7 +23,7 @@
 <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png"></a>
 <a href="https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15" target="_blank"><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
 
-<h3 align="centre">Streak-stats:</h3>
+<h3 align="left">Streak-stats:</h3>
 <p align="centre">
 <img title="Get streak stats for your profile at git.io/streak-stats" alt="Ashishkumar Rana's streak" src ="https://github-readme-streak-stats.herokuapp.com/?user=ashishrana1501&theme=dark"/>
   </a>
