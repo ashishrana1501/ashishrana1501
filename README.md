@@ -14,8 +14,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://www.microsoft.com/en-in/microsoft-365/microsoft-365-business-standard-one-month-trial" target="_blank"> <img src="![image](https://user-images.githubusercontent.com/86904142/192127819-cf97d4ea-4a1d-4de9-96b5-90c764736ac9.png))
-"></a>
+
 <a href="https://www.rstudio.com/products/rstudio/download" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/277/PNG/128/RStudio_30177.png" width='48' height=48></a>
 <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"></a>
 <a href="https://www.mysql.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"></a>
