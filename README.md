@@ -18,8 +18,7 @@
 <a href="https://www.rstudio.com/products/rstudio/download" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/277/PNG/128/RStudio_30177.png" width='48' height=48></a>
 <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"></a>
 <a href="https://www.mysql.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"></a>
-![image](https://user-images.githubusercontent.com/86904142/192128020-55b76d2a-afb1-4db7-8ed7-bf67d219bb73.png)
-
+<a> <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png](https://user-images.githubusercontent.com/86904142/192128020-55b76d2a-afb1-4db7-8ed7-bf67d219bb73.png"></a>
 <a href="https://www.tableau.com/g" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tableau-software.png"></a>
 <a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/power-bi.png"></a>
 <a href="https://www.fullstackpython.com/" target="_blank"> <img src="https://img.icons8.com/nolan/64/flask.png"></a>
