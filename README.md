@@ -18,12 +18,19 @@
 <a href="https://www.rstudio.com/products/rstudio/download" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/277/PNG/128/RStudio_30177.png" width='48' height=48></a>
 <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"></a>
 <a href="https://www.mysql.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"></a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="48" height="48"/></a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/86904142/192128158-c32ed1f4-2124-4ae3-a168-384fb7fa5134.png" width='48' height=48></a>
 <a href="https://www.tableau.com/g" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tableau-software.png"></a>
 <a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/power-bi.png"></a>
 <a href="https://www.fullstackpython.com/" target="_blank"> <img src="https://img.icons8.com/nolan/64/flask.png"></a>
 <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png"></a>
 <a href="https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15" target="_blank"><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
+<a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="48" height="48"/></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="48" height="48"/> </a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="48" height="48"/></a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="48" height="48"/></a>
+
 
 <h3 align="left">Streak-stats:</h3>
 <p align="centre">
