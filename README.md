@@ -16,6 +16,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <a href="https://www.rstudio.com/products/rstudio/download" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/277/PNG/128/RStudio_30177.png" width='48' height=48></a>
+<a href="https://shiny.posit.co" target="_blank"> <img src="https://community.rstudio.com/uploads/default/optimized/3X/a/6/a62322c626a8db3b50af56ea64e8627575394dbc_2_862x998.png" width='48' height=48></a>
 <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"></a>
 <a href="https://www.mysql.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"></a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="48" height="48"/></a>
